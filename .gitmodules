@@ -1,0 +1,9 @@
+[submodule "Analysto-Processor"]
+	path = Analysto-Processor
+	url = https://github.com/K1REBEL/Analysto-Processer.git
+[submodule "Analysto-Frontend"]
+	path = Analysto-Frontend
+	url = https://github.com/K1REBEL/Analysto-Frontend.git
+[submodule "Analysto-Auth"]
+	path = Analysto-Auth
+	url = https://github.com/K1REBEL/Analysto-Auth.git
