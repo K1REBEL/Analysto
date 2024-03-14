@@ -7,3 +7,6 @@
 [submodule "Analysto-Auth"]
 	path = Analysto-Auth
 	url = https://github.com/K1REBEL/Analysto-Auth.git
+[submodule "Analysto-Fetch"]
+	path = Analysto-Fetch
+	url = https://github.com/K1REBEL/Analysto-Fetch.git
