@@ -1,0 +1,17 @@
+
+Link to main "Analysto" Repository:
+   https://github.com/K1REBEL/Analysto
+
+
+
+Link to Submodule "Analysto-CRUD":
+   https://github.com/K1REBEL/Analysto-CRUD
+
+Link to Submodule "Analysto-Processer":
+   https://github.com/K1REBEL/Analysto-Processer
+
+Link to Submodule "Analysto-Fetch":
+   https://github.com/K1REBEL/Analysto-Fetch
+
+Link to Submodule "Analysto-Frontend":
+   https://github.com/K1REBEL/Analysto-Frontend
