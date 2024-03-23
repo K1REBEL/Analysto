@@ -10,3 +10,6 @@
 [submodule "Analysto-Fetch"]
 	path = Analysto-Fetch
 	url = https://github.com/K1REBEL/Analysto-Fetch.git
+[submodule "Analysto-Compiler"]
+	path = Analysto-Compiler
+	url = https://github.com/K1REBEL/Analysto-Compiler.git
