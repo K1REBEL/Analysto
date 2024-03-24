@@ -10,6 +10,9 @@ Link to Submodule "Analysto-CRUD":
 Link to Submodule "Analysto-Processer":
    https://github.com/K1REBEL/Analysto-Processer
 
+Link to Submodule "Analysto-Compiler":
+   https://github.com/K1REBEL/Analysto-Compiler
+
 Link to Submodule "Analysto-Fetch":
    https://github.com/K1REBEL/Analysto-Fetch
 
